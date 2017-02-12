@@ -1,0 +1,13 @@
+C:\Users\masaru-tsujitani\AppData\Local\Temporary Projects\yasasiC000\bin\Debug\yasasiC000.exe
+C:\Users\masaru-tsujitani\AppData\Local\Temporary Projects\yasasiC000\bin\Debug\yasasiC000.pdb
+C:\Users\masaru-tsujitani\AppData\Local\Temporary Projects\yasasiC000\obj\x86\Debug\yasasiC000.exe
+C:\Users\masaru-tsujitani\AppData\Local\Temporary Projects\yasasiC000\obj\x86\Debug\yasasiC000.pdb
+C:\Users\masaru-tsujitani\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\obj\x86\Debug\yasasiC000.exe
+C:\Users\masaru-tsujitani\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\obj\x86\Debug\yasasiC000.pdb
+C:\Users\masaru-tsujitani\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\bin\Debug\yasasiC000.exe
+C:\Users\masaru-tsujitani\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\bin\Debug\yasasiC000.pdb
+E:\Dropbox\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\obj\x86\Debug\yasasiC000.exe
+E:\Dropbox\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\obj\x86\Debug\yasasiC000.pdb
+E:\Dropbox\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\bin\Debug\yasasiC000.exe
+E:\Dropbox\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\bin\Debug\yasasiC000.pdb
+E:\Dropbox\Dropbox\J実習\YCSSample(やさしいCsharp2)\Projects\yasasiC000\yasasiC000\obj\x86\Debug\yasasiC000.csprojResolveAssemblyReference.cache
